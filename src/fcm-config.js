@@ -1,10 +1,10 @@
 export default {
   // Project Settings => Add Firebase to your web app
-  apiKey: "AIzaSyDrh90GhjpAGtAHVnOgjVTVMz_xxxxxxxx",
-  authDomain: "fcm-implement.firebaseapp.com",
-  databaseURL: "https://fcm-implement.firebaseio.com",
-  projectId: "fcm-implement",
-  storageBucket: "fcm-implement.appspot.com",
-  messagingSenderId: "80716xxxxxxx",
-  appId: "1:807163428649:web:xxxxxxxxxxxxxxxxxxxxxx"
-}
+  apiKey: 'AIzaSyAezEhrpTSbXVhiaw-ORD0UJrIvAxyItp8',
+  authDomain: 'react-three-fibre.firebaseapp.com',
+  databaseURL: 'https://react-three-fibre.firebaseio.com',
+  projectId: 'react-three-fibre',
+  storageBucket: 'react-three-fibre.appspot.com',
+  messagingSenderId: '1098227852996',
+  appId: '1:1098227852996:web:952cbf5824479db65a4b91',
+};

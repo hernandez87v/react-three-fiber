@@ -4,6 +4,15 @@ Here is a simple implementation of Firebase Cloud Messaging with React-PWA.
 
 Clone the repo: `git@github.com:hernandez87v/react-three-fiber.git && cd pwa-fcm`
 
+Install firebase CLI:
+`npm install -g firebase-tools`
+
+Deploy to Firebase Hosting:
+
+1. `firebase login`
+2. `firebase init`
+3. `firebase deploy`
+
 Make the following necessary changes:
 
 1. Update GCM-Sender ID in `public/manifest.json`.
