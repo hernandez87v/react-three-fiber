@@ -10,15 +10,13 @@
     "test": "pawjs --no-cache test"
   },
   "author": {
-    "name": "Yash Thakur",
-    "email": "thakur.yash514@gmail.com",
-    "url": "https://yashthakur.in/"
+    "name": "Vlad Hernandez",
+    "url": "https://vladhernandez.dev/"
   },
   "contributors": [
     {
-      "name": "Yash Thakur",
-      "email": "thakur.yash514@gmail.com",
-      "url": "https://yashthakur.in/"
+      "name": "Vlad Hernandez",
+      "url": "https://vladhernandez.dev/"
     }
   ],
   "license": "MIT",
