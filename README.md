@@ -1,9 +1,8 @@
-
 # Firebase Cloud Messaging with ReactPWA
 
 Here is a simple implementation of Firebase Cloud Messaging with React-PWA.
 
-Clone the repo:   `git@github.com:yash-thakur/pwa-fcm.git && cd pwa-fcm`
+Clone the repo: `git@github.com:hernandez87v/react-three-fiber.git && cd pwa-fcm`
 
 Make the following necessary changes:
 
@@ -17,4 +16,6 @@ Open the browser (`http://localhost:3003`) with **Developer Tools** and note the
 
 Go to the [Firebase Notification Tester](https://firebase.google.com/docs/cloud-messaging/js/first-message) and open **Notification Composer**.
 
-Paste the **token** and send the *Test Notification*
+Paste the **token** and send the _Test Notification_
+
+###### boiler plate by yash-thakur
