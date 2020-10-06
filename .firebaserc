@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "react-three-fibre"
+    "default": "react-three-fibre",
+    "staging": "react-three-fibre"
   }
 }
